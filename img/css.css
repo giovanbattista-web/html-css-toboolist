@@ -9,6 +9,97 @@ header {
 }
 
 body {
-    background-color: grey;
+    background-color: lightgrey;
 }
 
+.bottone1 {
+    display: inline-block;
+    border: 4px blue;
+    background-color: blue;
+    padding: 4px;
+    color: white;
+    width: 100px;
+    border-radius: 4px;
+    text-align: center;
+  }
+
+  .bottone2{
+    display: inline-block;
+    border: 4px grey;
+    background-color: white;
+    padding: 4px;
+    color: grey;
+    width: 100px;
+    border-radius: 4px;
+    text-align: center;
+  }
+
+  .blu {
+    display: inline-block;
+    border: 4px grey;
+    background-color: blue;
+    padding: 4px;
+    color: white;
+    width: 100px;
+    border-radius: 4px;
+    text-align: center;
+    margin-bottom: 5px;
+  }
+
+  .spunta {
+    color: green;
+    border: 1px solid green;
+  }
+
+  .spunta1 {
+    color: red;
+    border: 1px solid red;
+  }
+
+  .verde {
+     border-radius: 50%;
+     text-align: center;
+  }
+
+  .rossa {
+    border-radius: 50%;
+    text-align: center;
+ }
+
+  .viola {
+    margin: auto;
+    display: inline-block;
+    border: 4px grey;
+    background-color:fuchsia;
+    padding: 4px;
+    color: white;
+    width: 100px;
+    border-radius: 4px;
+    text-align: center;
+    margin-bottom: 5px;
+  }
+
+  .bottone-verde {
+        margin: auto;
+        display: inline-block;
+        border: 4px grey;
+        background-color: greenyellow ;
+        padding: 4px;
+        color: white;
+        width: 100px;
+        border-radius: 4px;
+        text-align: center;
+        margin-bottom: 5px;
+      }
+  
+.arancione  {
+    display: inline-block;
+        border: 4px grey;
+        background-color: orangered;
+        padding: 4px;
+        color: white;
+        width: 100px;
+        border-radius: 4px;
+        text-align: center;
+}
+  
