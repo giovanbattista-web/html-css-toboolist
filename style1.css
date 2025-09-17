@@ -1,6 +1,6 @@
-*{
-    padding:0;
-    margin:0;
+* {
+    padding: 0;
+    margin: 0;
     box-sizing: border-box;
 }
 
@@ -10,114 +10,114 @@ body {
 
 /* header */
 header {
-    padding : 10px 20px;
+    padding: 10px 20px;
 }
 
-.logo{
+.logo {
     width: 50px;
     vertical-align: middle;
 }
-    
+
 
 .title {
-     font-size: 25px;
-     font-weight: 600;
-     vertical-align: middle;
+    font-size: 25px;
+    font-weight: 600;
+    vertical-align: middle;
 }
 
 /* main */
 
 main {
     background-color: grey;
-    padding : 20px 0px;
+    padding: 20px 0px;
 }
 
 .container {
-        max-width: 990px;
-        margin: 0 auto;
+    max-width: 990px;
+    margin: 0 auto;
 }
 
 .content {
-      background-color: white;
-      border-radius: 20px;
-      }
-
-.top-content{
-       padding: 20px 40px;
-       border-bottom: 2px solid rgb(224, 224, 224);
+    background-color: white;
+    border-radius: 50px;
 }
 
-.bottom-content{
-            padding: 20px 40px;
+.top-content {
+    padding: 20px 40px;
+    border-bottom: 2px solid rgb(224, 224, 224);
+}
+
+.bottom-content {
+    padding: 20px 40px;
 }
 
 .btn {
     border-radius: 5px;
-    padding : 10px;
+    padding: 10px;
 }
 
 .blue {
-      background-color: rgb(77,160,254);
-      border : 1px solid rgb(77,160,254);
-      color : white;
+    background-color: rgb(77, 160, 254);
+    border: 1px solid rgb(77, 160, 254);
+    color: white;
 }
 
-.outline{
-        background-color: transparent;
-        color: grey;
-        border : 1px solid grey;
-       }
+.outline {
+    background-color: transparent;
+    color: grey;
+    border: 1px solid grey;
+}
 
 ul {
-   list-style-type: none;
+    list-style-type: none;
 }
 
-li{
-  margin : 20px 0px;
+li {
+    margin: 20px 0px;
 }
 
 .circle {
-       padding : 0px 3pxpx;
-       border-radius: 50%;
-       margin-right: 10px;
+    padding: 0px 3px;
+    border-radius: 50%;
+    margin-right: 10px;
 }
 
-.success{
-     color: green;
-     border: 1px solid green;
+.success {
+    color: green;
+    border: 1px solid green;
 }
 
-.error{
+.error {
     color: red;
     border: 1px solid red;
 }
 
 .label {
-    padding : 7px 15px;
-    color : white;
+    padding: 7px 15px;
+    color: white;
     border-radius: 20px;
 }
 
-.primary-blue{
-      background-color: rgb(77,160,254);
+.primary_blue {
+    background-color: rgb(77, 160, 254);
 }
 
-.violet{
+.violet {
     background-color: purple;
 }
 
-.orange{
+.orange {
     background-color: orange;
 }
 
-.fucsia{
+.fuchsia {
     background-color: fuchsia;
 }
 
-.olive-green{
+.olive_green {
     background-color: olive;
 }
 
-.dark-green{
+.dark_green {
     background-color: darkgreen;
 }
