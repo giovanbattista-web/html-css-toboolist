@@ -7,4 +7,4 @@ Partiamo sempre dal definire le macroaree del layout e analizziamo poi gli eleme
 Numero push obbligatori: 6
 
 Consegna
-Pushate in Github utilizzando VS code e stando attenti, quando create la repo, di rispettare il nome della repo, in questo caso html-css-toboolist.
+Pushate in Github utilizzando VS code.
